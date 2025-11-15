@@ -1,6 +1,6 @@
 
 {
- 
+  "homepage": "https://github.com/Vidhyavalli/gticra",
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
@@ -15,7 +15,7 @@
     "web-vitals": "^2.1.4"
     
   },
-   "homepage": "https://github.com/Vidhyavalli/gticra.git",
+   
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
